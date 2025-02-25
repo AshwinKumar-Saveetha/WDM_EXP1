@@ -111,7 +111,7 @@ rainy,75.0,80.0,false,yes
 ### Weather Data:
 ![Screenshot 2025-02-22 144202](https://github.com/user-attachments/assets/cd119049-52a3-45c5-a435-c83f8dc51e23)
 
-
+<br><br><br><br>
 ### 3) Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
